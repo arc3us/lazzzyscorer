@@ -9,7 +9,7 @@ gamelink = 'http://zzzscore.com/memory'
 
 zdriver.get(gamelink)
 
-load = 3.2 #Delay to load the game. Don't set it too low else the game will crash
+load = 3.6 #Delay to load the game. Don't set it too low else the game will crash
 time.sleep(load)
 
 
