@@ -1,7 +1,3 @@
-lazzzy1to50
-
-A selenium based python script to automate the 1to50 game on zzzscore
-
 # lazzzyscorer
 A selenium based script to hack/automate games on zzzscore
 
